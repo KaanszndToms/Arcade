@@ -1,6 +1,31 @@
-10.9.18 - Nachforschungen in Richtung der Spielwahl für den Aimbot.
-          Erste Informationsbeschaffung über generelle Funktionsweisen und Programmiertechniken des Aimbots.
-          
-17.09.18 - Fertigstellung des ersten Versuchsobjekts mit Snap.
-
-18.09.18 - Erste Versuche in Greenfoot für einen Aimbot in Java.
+27.08.18 - Aueinandersetzung mt Github und dessen Funktionen. Erste Überlegungen bezüglich der Wahl des Projektes
+28.08.18 - Recherche zum Programmieren im Allgemeinen. Erste Erfahrungen mit Snap
+03.09.18 - Recherche über Projektideen und eigenes bainstormen für Projektideen.
+04.09.18 - Einigung auf einen Aimbot als Informatikprojekt. Erste Nachforschungen übergenerelle Funktionsweisen eines Aimbotcodes
+10.09.18 - Nachforschungen in Richtung der Spielwahl für den Aimbot.
+           Weitere Nachforschungen über Programmiertechniken eines Aimbots       
+17.09.18 - Erste Versuche Objekte in Snap zu erschaffen bzw. zu kontrollieren. 
+           Dieht zur Erfahrungssammlung zur erstellung eines eigenständigen Aimbots
+18.09.18 - Fertigstellung eines konntrollierbaren Objekts in Snap 
+           plus Versuche ein weiteres Objekt zu erschaffen, welches das erste verfolgt bzw. nachahmt
+24.09.18 - Fertigstellung dieses zweiten Objektes
+25.09.18 - Designtechnische Veränderungen, bzw optische Anpassungen der Objekte.
+           Umstellung auf Greenfoot, um Javakentnisse zu erhalten
+01.10.18 - Recherche zur Funktionsweise von Greenfoot. Erste Versuche für Codes eines Objektes bzw. einer Welt.
+02.10.18 - Entscheidung für eine Umstellung des Projektes,da ein Aimbot eine zu große Aufgane ist für die verfügbare Zeit.
+           Als Projekt wollten wir nun ein oder mehrere Minispiele programmieren. Dazu sammelten wir erste Ideen.
+08.10.18 - Erste Versuche unser erstes Spiel umzusetzen. 
+           Dabei kamen wir nur dazu einen Actor random Bewegungen ausführen zu lassen.
+09.10.18 - Spielidee angeleht an die Website "Aimbooster"
+           Dazu lassen wir den Actor an einer random Stelle stehen, bis man in mit dem Cursor anklickt.
+           Soabl das passiert sucht er sich eine neue random Position.
+15.10.18 - 
+16.10.18 - 
+22.10.18 - 
+23.10.10 - 
+29.10.18 - 
+30.10.18 - 
+05.11.18 - 
+06.11.18 - 
+12.11.18 - 
+13.11.18 - 
