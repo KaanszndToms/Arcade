@@ -27,7 +27,7 @@ Im zweiten Modus: "Rocket Run" steuert man mit den W,A,S,D Tasten eine Rackete u
 ![bsp Press F to start](Screenshots/Rocketrun.PNG)
 
 
-## Erläuterung ausgewählter Klassen und Techniken<a name="2"></a>  [Nach oben](#0)
+## Erläuterung ausgewählter Klassen und Techniken<a name="2"></a>  ([nach oben](#0))
 ### [Navigation](#3)
 ### [Clicker](#4)
 ### [Rocket Run](#5)
