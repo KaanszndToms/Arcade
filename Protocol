@@ -19,13 +19,21 @@
 09.10.18 - Spielidee angeleht an die Website "Aimbooster"
            Dazu lassen wir den Actor an einer random Stelle stehen, bis man in mit dem Cursor anklickt.
            Soabl das passiert sucht er sich eine neue random Position.
-15.10.18 - 
-16.10.18 - 
-22.10.18 - 
-23.10.10 - 
-29.10.18 - 
-30.10.18 - 
-05.11.18 - 
-06.11.18 - 
-12.11.18 - 
-13.11.18 - 
+15.10.18 - Als nächstes haben wir versucht einen Zähler bzw. Counter einzubauen, der die Anzahl der "richtigen" Klicks zählt,
+           also wie oft der Actor angeklickt wird.
+16.10.18 - Fertigstellung des Counters. Überlegungen wie eine Zeitbegrenzung erzeugt werden kann.
+22.10.18 - Anfangen einer Zeitbegrenzung mithilfe der Tickrate des Progaramms.
+23.10.10 - Weitere Arbeiten an der ZEitbegrenzung.
+29.10.18 - Fertigstellung der Zeitbrgrenzung.
+30.10.18 - Anfangen eines neuen Spielmodus, bei dem es darum gehen soll ein Objekt mit dem Cursor zu steuern,
+           um Hindernissen auszuweichen. Am Ende der Stunde konnten wir schon den Actor mit dem Cursor steuern.
+05.11.18 - Planänderung: man soll den Actor mit Tasten auf der Tastatur steuern, da das Spiel sonst zu einfach wäre.
+           Diese Änderung konnten wir schnell erledigen. Außerdem erstellen wir die Hindernisse, welche Meteoriten sind, 
+           welche von oben herabfakllen sollen.
+06.11.18 - Fertigstelluzng der Hindernisse. Erzeugung eines KOllisionseffektes, wenn der Actor einen Meteor berührt.
+           Sobald dies passiert Endet die Partie. Außerdem wollten wir, dass der Actor auch Projektiele abfeuern kann,
+           die die Meteoriten zerstören. Dies gelang mach kurzer Recherche.
+12.11.18 - Dank der Gesammelten Kenntnisse galang es uns recht zügig einen Zähler und einen Zeitzähler zu erstellen und
+           und miterinander zu verbinden, sodass man Punkte sammelt, indem man Meteoriten zerstört und möglichst lange nihct von
+           einem getroffen wird.
+13.11.18 - Recherche zu visuellen Anpassungen und deren Umsetzung.
