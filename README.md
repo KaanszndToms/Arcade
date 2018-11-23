@@ -81,6 +81,9 @@ Das Zählsystem wurde dieses Mal mit einer neuen Komponente ausgestattet, da es 
 
 Die bei der Zerstörung der Rakete entstehende Explosion wird erneut mit Hilfe der Tickrate der Greenfootumgebung dargestellt. So wird die Animation in 60 Bilder pro Sekunde zerteilt und dann die Bilder einzeln angezeigt, wobei sich das angezeigte Bild 60-mal pro Sekunde ändert. So wird eine Animation mit 60 FPS erzeugt.
 
-Das grundlegende Steuersystem der Rakete ist sehr simpel und beschränkt sich auf die 4 Himmelsrichtungen und eine Schussfunktion. Zudem wird die Rakete bei der Kollision mit einem Asteroiden zerstört und das Spiel damit beendet. 
+Das grundlegende Steuersystem der Rakete ist sehr simpel und beschränkt sich auf die 4 Himmelsrichtungen und eine Schussfunktion. Zudem wird die Rakete bei der Kollision mit einem Asteroiden zerstört und das Spiel damit beendet. Zudem bewegt sich die Animation so, dass der Anschein einer sich bewegenden Asteroidenlandschaft entsteht. 
 
 ![bsp Explosion](Screenshots/explCode.PNG)
+([zurück zur Erläuterung der Klassen und Techniken](#2))
+([zum Anfang](#0))
+
