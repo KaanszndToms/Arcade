@@ -10,6 +10,8 @@
 Unser Greenfoot-Projekt stell ein kleines Arcade Spiel da, in dem es 2 verschiedene Spielmodi gibt.
 Beim Start des Programms kommt man auf den Startscreen. Darauf steht: "press F to start". 
 
+![bsp Press F to start](Screenshots/StartScreen.png)
+
 Wenn man dies ausführt wird man in dem Menüscreen geleitet, wo man sich für einen der beiden Spielmodi entscheiden kann. Sobald man einen der Modi anklickt startet der jeweilige Modus. 
 
 Das Clicker-Spiel beinhaltet ein Karo- Symbol, dass man anklicken muss. Sobald dies passiert ist, wird ein Punkt auf dem Scoreboard vermerkt und das Symbol  erscheint an einer zufälligen andern Position auf dem Bildschirm. Währenddessen läuft eine Zeit ab. Sobald die Zeit vorbei ist, kommt man in den Endscreen, wo einem seine erreichte Punktzahl angezeigt wird. Von da kommt man durch betätigen der Escape-Taste zurück in den Menüscreen. 
