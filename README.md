@@ -50,6 +50,7 @@ Der Counter nutzt die Möglichkeit öffentliche Methoden zu erstellen um so ande
 Das Ziel (hier Target) spielt in diesem Modus eine besondere Rolle, da es nicht nur für seine eigene Neupositionierung verantwortlich ist, sondern auch den Wert des Counters erhöhen muss, wenn man einen Treffer landet. Dafür bekommt es aus der Welt (lvl1) die nötigen Informationen, welche zuvor durch öffentliche Methoden zugänglich gemacht wurden, und kann so auf den Counter zugreifen.
 
 ![bsp Target](Screenshots/TargetCode.PNG)
+([zurück zur Erläuterung der Klassen und Techniken](#2))
 
 ### Rocket Run<a name="5"></a>
 In diesem Spiel wurden neue Techniken verwendet um unter Anderem zufällig Asteroiden mit der gleiche Bewegungsrichtung und Geschwindigkeit, sowie ein Schusssystem und die Explosionsanimation zu implementieren. 
