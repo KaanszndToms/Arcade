@@ -52,4 +52,12 @@ Das Ziel (hier Target) spielt in diesem Modus eine besondere Rolle, da es nicht 
 ![bsp Target](Screenshots/TargetCode.PNG)
 
 ### Rocket Run<a name="5"></a>
+In diesem Spiel wurden neue Techniken verwendet um unter Anderem zufällig Asteroiden mit der gleiche Bewegungsrichtung und Geschwindigkeit, sowie ein Schusssystem und die Explosionsanimation zu implementieren. 
+Um die Asteroiden an zufälligen Positionen erscheinen zu lassen und gleichzeitig eine geregelte Menge an Asteroiden zu erschaffen, haben wir hier den Zufallszahlengenerator verwendet um eine Chance für die Erschaffung eine Asteroiden 60mal in der Sekunde zu generieren und zudem einen zufälligen X-Wert für seinen Erscheinungsort zu generieren.
+
+![bsp lvl3](Screenshots/lvl3Code.PNG)
+
+Der Asteroid hatte dabei immer den gleichen Code: 
+
+![bsp Asteroid](Screenshots/AsteroidCode.PNG)
 
