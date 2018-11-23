@@ -25,9 +25,9 @@ Das Clicker-Spiel beinhaltet ein Karo- Symbol, dass man anklicken muss. Sobald d
 Im zweiten Modus: "Rocket Run" steuert man mit den W,A,S,D Tasten eine Rackete und muss versuchen heranfliegenden Meteoriten auszuweichen. Als Hilfe dazu diehnt eine eingebaute Schuss-Funktion. Diese wird durch betätigen der Enter-Taste ausgeführt. Die abgefeuerten Projektile zerstören jeweils den ersten Meteor des sie treffen. Das Spiel endet erst dann, wenn man mit der Rakete einen Meteor berüht. Punkte werden durch langes Überleben und durch zerstören von Meteoriten erhalten. Nach Ende der Patie werden einem die erreichten Punkte in der Mitte des Sceens angezeigt. Von dort kommt man ebenfalls durch betätigen der Escape-Taste zurück in den Menüscreen.
 
 ![bsp Press F to start](Screenshots/Rocketrun.PNG)
+([zum Anfang](#0))
 
-
-## Erläuterung ausgewählter Klassen und Techniken<a name="2"></a>  ([nach oben](#0))
+## Erläuterung ausgewählter Klassen und Techniken<a name="2"></a>  
 ### [Navigation](#3)
 ### [Clicker](#4)
 ### [Rocket Run](#5)
