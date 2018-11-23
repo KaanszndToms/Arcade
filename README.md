@@ -1,7 +1,6 @@
 # Ragel
-## Einen Aimbot programmieren
 
-[Aimbot](#1)
 
-<a name="1"></a>Ein Aimbot ist ein Softwaretool, das in First-Person-Shootern verwendet wird, die es dem Spieler ermöglichen, gegnerische Spieler zu treffen, ohne zielen zu müssen. Da dies dem Spieler hilft, genauer und ohne wirklichen Aufwand zu treffen, gilt es als Betrug und ist daher in den meisten Spielen verboten. 
 
+Unser Greenfoot-Projekt stell ein kleines Arcade Spiel da, in dem es 2 verschiedene Spielmodi gibt.
+Beim Start des Programms kommt man auf den Startscreen. Darauf steht: "press F to start". Wenn man dies ausführt wird man in dem Menüscreen geleitet, wo man sich für einen der beiden Spielmodi entscheiden kann. Sobald man einen der Modi anklickt startet der jeweilige Modus. Das Klicker-Spiel beinhaltet ein Karo- Symbol, dass man anklicken muss. Sobald dies passiert ist, wird ein Punkt auf dem Scoreboard vermerkt und das Symbol  erscheint an einer zufälligen andern Position auf dem Bildschirm. Währenddessen läuft eine Zeit ab. Sobald die Zeit vorbei ist, kommt man in den Endscreen, wo einem seine erreichte Punktzahl angezeigt wird. Von da kommt man durch betätigen der Escape-Taste zurück in dem Menüscreen. Im zweiten Modus: "Rocket Run" steuert man mit den W,A,S,D Tasten eine Rackete und muss versuchen heranfliegenden Meteoriten auszuweichen. Als Hilfe dazu diehnt eine eingebaute Schuss-Funktion. Diese wird durch betätigen der Enter-Taste. Die abgefeuerten Projektile zerstören jeweils den ersten Meteor des sie treffen. Das Spiel endet erst dann, wenn man mit der Rakete einen Meteor berüht. Punkte werden durch langes Überleben und durch zerstören von Meteoriten. Nach Ende der Patie werden einem die erreichten Punkte in der Mitte des Sceens angezeigt. Von dort kommt man ebenfalls durch betätigen dewr Escape-Taste zurück in des Menüscreen.
