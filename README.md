@@ -10,7 +10,7 @@
 Unser Greenfoot-Projekt stell ein kleines Arcade Spiel da, in dem es 2 verschiedene Spielmodi gibt.
 Beim Start des Programms kommt man auf den Startscreen. Darauf steht: "press F to start". 
 
-![bsp Press F to start](Screenshots/StartScreen.png)
+![bsp Press F to start](Screenshots/StartScreen.PNG)
 
 Wenn man dies ausführt wird man in dem Menüscreen geleitet, wo man sich für einen der beiden Spielmodi entscheiden kann. Sobald man einen der Modi anklickt startet der jeweilige Modus. 
 
