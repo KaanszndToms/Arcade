@@ -36,7 +36,7 @@ Im zweiten Modus: "Rocket Run" steuert man mit den W,A,S,D Tasten eine Rackete u
 ### Navigation<a name="3"></a>
 Die Navigation durch die verschiedenen Ebenen unseres Programms haben wir mit der setWorld Methode gelöst, bei der einfach die gewünschte Welt angezeigt wird, sowie auch die mit ihr verbundenen Actors. Hier ein Beispiel:
 
-![bsp Navigation](lvl1Code.PNG)
+![bsp Navigation](Screenshots/lvl1Code.PNG)
 
 ### Clicker<a name="4"></a>
 
