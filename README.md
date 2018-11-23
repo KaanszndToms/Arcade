@@ -34,11 +34,22 @@ Im zweiten Modus: "Rocket Run" steuert man mit den W,A,S,D Tasten eine Rackete u
 
 
 ### Navigation<a name="3"></a>
-Die Navigation durch die verschiedenen Ebenen unseres Programms haben wir mit der setWorld Methode gelöst, bei der einfach die gewünschte Welt angezeigt wird, sowie auch die mit ihr verbundenen Actors. Hier ein Beispiel:
+Die Navigation durch die verschiedenen Ebenen unseres Programms haben wir mit der setWorld Methode gelöst, bei der einfach die gewünschte Welt angezeigt wird, sowie auch die mit ihr verbundenen Actors. Hier ein Beispiel (in der public void Methode):
 
 ![bsp Navigation](Screenshots/lvl1Code.PNG)
 
 ### Clicker<a name="4"></a>
+In diesem Spiel haben wir zum ersten Mal unseren Timer und unseren Counter programmiert. Der Timer wird hierbei von der Tickrate der Greenfootumgebung gesteuert, da jedes Mal, wenn die Methode ausgeführt wird, der Zeitwert um 1 verringert wird. Nun muss also nur noch das 60-fache der gewünschten Zeit als Startwert eingetragen werden.
+
+![bsp Timer](Screenshots/TimerCode.PNG)
+
+Der Counter nutzt die Möglichkeit öffentliche Methoden zu erstellen um so anderen Actors zu ermöglichen den Wert zu ändern bzw. zu erhöhen. Zudem wird durch die variable im Code eine dynamische Anzeige gewährleistet. Zudem verfügt der Counter ebenfalls über einen Timer, wodurch er nach Ablauf der Zeit den erspielten Endwert vergrößert darstellen kann.
+
+![bsp Counter](Screenshots/CounterCode.PNG)
+
+Das Ziel (hier Target) spielt in diesem Modus eine besondere Rolle, da es nicht nur für seine eigene Neupositionierung verantwortlich ist, sondern auch den Wert des Counters erhöhen muss, wenn man einen Treffer landet. Dafür bekommt es aus der Welt (lvl1) die nötigen Informationen, welche zuvor durch öffentliche Methoden zugänglich gemacht wurden, und kann so auf den Counter zugreifen.
+
+![bsp Target](Screenshots/TargetCode.PNG)
 
 ### Rocket Run<a name="5"></a>
 
